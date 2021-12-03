@@ -1,0 +1,29 @@
+body {
+    background-color: steelblue;
+}
+
+.wolverine {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: navy;
+}
+
+#Still-learning {
+    text-align: center;
+    font-weight: bold;
+    height: 20px;
+    width: 100%;
+}
+
+#you-can-do-it {
+    font-family: fantasy;
+    font-size: 22px;
+    color: purple;
+    border: 5px dashed blue;
+    margin: 50px 50px 50px 50px;
+}
+
+.Eleven50 img{
+    width: 200px;
+    height: 200px;
+}
